@@ -1,0 +1,21 @@
+.collapse-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.collapse-container2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+
+
+.box-component {
+    margin-bottom: 10px;
+    margin-left: 70px;
+    font-size: large;
+    /* margin-right: 40px; */
+}
+
